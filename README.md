@@ -1,6 +1,6 @@
 ---
 
-:white_check_mark::ok_hand:[**Ссылка на презентацию в формате `.pdf`**](https://drive.google.com/file/d/1ujWPvC3g4CieQiz6I54LlMVCjJUaOoTS/view?usp=share_link)
+:white_check_mark::ok_hand:[**Ссылка на презентацию в формате `.pdf`**](https://drive.google.com/file/d/1ujWPvC3g4CieQiz6I54LlMVCjJUaOoTS/view?usp=sharing)
 
 ---
 
@@ -25,6 +25,6 @@
   
 ---
 
-:white_check_mark::ok_hand:[**Ссылка на презентацию в формате `.pdf`**](https://drive.google.com/file/d/1ujWPvC3g4CieQiz6I54LlMVCjJUaOoTS/view?usp=share_link)
+:white_check_mark::ok_hand:[**Ссылка на презентацию в формате `.pdf`**](https://drive.google.com/file/d/1ujWPvC3g4CieQiz6I54LlMVCjJUaOoTS/view?usp=sharing)
 
 ---
