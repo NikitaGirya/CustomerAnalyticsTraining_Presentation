@@ -1,12 +1,5 @@
----
-
-:white_check_mark::ok_hand:[**Ссылка на презентацию в формате `.pdf`**](https://drive.google.com/file/d/1ujWPvC3g4CieQiz6I54LlMVCjJUaOoTS/view?usp=sharing)
-
----
-
 # Обучение по клиенской аналитике для регионов и магазинов
 
----
 <p class="thumb" align="center">
    <img src="https://user-images.githubusercontent.com/89247751/228472631-875e1c43-9a1c-4ff8-9260-f1bb1d4ac44b.PNG" width="250" height="140">
    <img src="https://user-images.githubusercontent.com/89247751/228472732-7db15199-0ebe-4954-8610-7d601d84f53b.PNG" width="250" height="140">
@@ -26,5 +19,3 @@
 ---
 
 :white_check_mark::ok_hand:[**Ссылка на презентацию в формате `.pdf`**](https://drive.google.com/file/d/1ujWPvC3g4CieQiz6I54LlMVCjJUaOoTS/view?usp=sharing)
-
----
